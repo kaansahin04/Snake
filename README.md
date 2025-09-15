@@ -9,6 +9,7 @@ Eclipse üzerinden Java diliyle yazılmış meşhur Yılan oyunu. Her elma 25 pu
 3) Projeyi oluşturduğunuzda otomatik olarak gelen <b>src</b> klasöründe <strong>Sağ Tık>Import>General>File System</strong> şeklinde ilerleyin.
 4) Projeyi <b>clone</b>'ladığınızda bilgisayarınızda oluşan klasörün altındaki <b>src</b> klasörünü seçip import işlemini tamamlayın.
 5) <b>Main.java</b> dosyasını çalıştırın.
+6) Ok tuşları veya WASD ile yılan hareket ettirilir. Elmayı yemek için elmanın üzerine gelin, yiyince boyunuz uzayacak. Duvarlara çarparsanız veya dönüp kendinizi yerseniz oyun biter!
 <p>Keyifli oyunlar, bol skorlar...</p>
 
 ## Durum
