@@ -13,5 +13,5 @@ Eclipse üzerinden Java diliyle yazılmış meşhur Yılan oyunu. Her elma 25 pu
 
 ## Durum
 ![Dosya Boyutu](https://img.shields.io/badge/5%2C06%20KB-gray?style=flat&logo=github&label=file%20size&color=green)
-![GitHub Repo Boyutu](https://img.shields.io/github/repo-size/kaansahin04/Snake?logo=github&color=green)
+![GitHub Repo Boyutu](https://img.shields.io/github/repo-size/kaansahin04/snake?logo=github&color=green)
 ![Programlama Dili](https://img.shields.io/github/languages/top/kaansahin04/Snake?color=A49410)
